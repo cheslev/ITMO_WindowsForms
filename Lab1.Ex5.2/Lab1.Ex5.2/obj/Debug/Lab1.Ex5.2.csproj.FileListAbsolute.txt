@@ -1,0 +1,11 @@
+C:\Users\lev.chesnokov\source\repos\Lab1.Ex5.2\Lab1.Ex5.2\bin\Debug\Lab1.Ex5.2.exe.config
+C:\Users\lev.chesnokov\source\repos\Lab1.Ex5.2\Lab1.Ex5.2\bin\Debug\Lab1.Ex5.2.exe
+C:\Users\lev.chesnokov\source\repos\Lab1.Ex5.2\Lab1.Ex5.2\bin\Debug\Lab1.Ex5.2.pdb
+C:\Users\lev.chesnokov\source\repos\Lab1.Ex5.2\Lab1.Ex5.2\obj\Debug\Lab1.Ex5.2.csproj.AssemblyReference.cache
+C:\Users\lev.chesnokov\source\repos\Lab1.Ex5.2\Lab1.Ex5.2\obj\Debug\Lab1.Ex5._2.ChildForm.resources
+C:\Users\lev.chesnokov\source\repos\Lab1.Ex5.2\Lab1.Ex5.2\obj\Debug\Lab1.Ex5._2.StartForm.resources
+C:\Users\lev.chesnokov\source\repos\Lab1.Ex5.2\Lab1.Ex5.2\obj\Debug\Lab1.Ex5._2.Properties.Resources.resources
+C:\Users\lev.chesnokov\source\repos\Lab1.Ex5.2\Lab1.Ex5.2\obj\Debug\Lab1.Ex5.2.csproj.GenerateResource.cache
+C:\Users\lev.chesnokov\source\repos\Lab1.Ex5.2\Lab1.Ex5.2\obj\Debug\Lab1.Ex5.2.csproj.CoreCompileInputs.cache
+C:\Users\lev.chesnokov\source\repos\Lab1.Ex5.2\Lab1.Ex5.2\obj\Debug\Lab1.Ex5.2.exe
+C:\Users\lev.chesnokov\source\repos\Lab1.Ex5.2\Lab1.Ex5.2\obj\Debug\Lab1.Ex5.2.pdb

@@ -1,0 +1,10 @@
+C:\Users\lev.chesnokov\source\repos\ITMO.CharpLesons\ITMO.CharpLesons\bin\Debug\ITMO.CharpLesons.exe.config
+C:\Users\lev.chesnokov\source\repos\ITMO.CharpLesons\ITMO.CharpLesons\bin\Debug\ITMO.CharpLesons.exe
+C:\Users\lev.chesnokov\source\repos\ITMO.CharpLesons\ITMO.CharpLesons\bin\Debug\ITMO.CharpLesons.pdb
+C:\Users\lev.chesnokov\source\repos\ITMO.CharpLesons\ITMO.CharpLesons\obj\Debug\ITMO.CharpLesons.csproj.AssemblyReference.cache
+C:\Users\lev.chesnokov\source\repos\ITMO.CharpLesons\ITMO.CharpLesons\obj\Debug\ITMO.CharpLesons.Form1.resources
+C:\Users\lev.chesnokov\source\repos\ITMO.CharpLesons\ITMO.CharpLesons\obj\Debug\ITMO.CharpLesons.Properties.Resources.resources
+C:\Users\lev.chesnokov\source\repos\ITMO.CharpLesons\ITMO.CharpLesons\obj\Debug\ITMO.CharpLesons.csproj.GenerateResource.cache
+C:\Users\lev.chesnokov\source\repos\ITMO.CharpLesons\ITMO.CharpLesons\obj\Debug\ITMO.CharpLesons.csproj.CoreCompileInputs.cache
+C:\Users\lev.chesnokov\source\repos\ITMO.CharpLesons\ITMO.CharpLesons\obj\Debug\ITMO.CharpLesons.exe
+C:\Users\lev.chesnokov\source\repos\ITMO.CharpLesons\ITMO.CharpLesons\obj\Debug\ITMO.CharpLesons.pdb
