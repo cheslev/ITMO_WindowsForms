@@ -1,0 +1,15 @@
+C:\Users\lev.chesnokov\source\repos\UserIn2\UserIn2\bin\Debug\UserIn2.exe.config
+C:\Users\lev.chesnokov\source\repos\UserIn2\UserIn2\bin\Debug\UserIn2.exe
+C:\Users\lev.chesnokov\source\repos\UserIn2\UserIn2\bin\Debug\UserIn2.pdb
+C:\Users\lev.chesnokov\source\repos\UserIn2\UserIn2\obj\Debug\UserIn2.csproj.AssemblyReference.cache
+C:\Users\lev.chesnokov\source\repos\UserIn2\UserIn2\obj\Debug\MainWindow.g.cs
+C:\Users\lev.chesnokov\source\repos\UserIn2\UserIn2\obj\Debug\App.g.cs
+C:\Users\lev.chesnokov\source\repos\UserIn2\UserIn2\obj\Debug\UserIn2_MarkupCompile.cache
+C:\Users\lev.chesnokov\source\repos\UserIn2\UserIn2\obj\Debug\UserIn2_MarkupCompile.lref
+C:\Users\lev.chesnokov\source\repos\UserIn2\UserIn2\obj\Debug\MainWindow.baml
+C:\Users\lev.chesnokov\source\repos\UserIn2\UserIn2\obj\Debug\UserIn2.g.resources
+C:\Users\lev.chesnokov\source\repos\UserIn2\UserIn2\obj\Debug\UserIn2.Properties.Resources.resources
+C:\Users\lev.chesnokov\source\repos\UserIn2\UserIn2\obj\Debug\UserIn2.csproj.GenerateResource.cache
+C:\Users\lev.chesnokov\source\repos\UserIn2\UserIn2\obj\Debug\UserIn2.csproj.CoreCompileInputs.cache
+C:\Users\lev.chesnokov\source\repos\UserIn2\UserIn2\obj\Debug\UserIn2.exe
+C:\Users\lev.chesnokov\source\repos\UserIn2\UserIn2\obj\Debug\UserIn2.pdb
