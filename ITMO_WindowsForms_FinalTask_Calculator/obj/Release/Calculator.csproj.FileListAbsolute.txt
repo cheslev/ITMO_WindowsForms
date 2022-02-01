@@ -1,0 +1,16 @@
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for Studio_C#\Windows_Course\Задания по курсу С#_Windows\Calculator\bin\Release\Calculator.exe
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for Studio_C#\Windows_Course\Задания по курсу С#_Windows\Calculator\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for Studio_C#\Windows_Course\Задания по курсу С#_Windows\Calculator\obj\Release\Calculator.Calc.resources
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for Studio_C#\Windows_Course\Задания по курсу С#_Windows\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for Studio_C#\Windows_Course\Задания по курсу С#_Windows\Calculator\obj\Release\Calculator.exe
+Z:\C#Student\WinC#\Задания по курсу С#_Windows\Calculator\obj\Release\Calculator.exe
+C:\Work\c#_WinForms\Prim_k_lec\Calculator\Calculator_starter\obj\Release\Calculator.exe
+C:\Work\c#_WinForms\Prim_k_lec\Calculator\Calculator_starter\bin\Release\Calculator.exe
+C:\Work\c#_WinForms\Prim_k_lec\Calculator\Calculator_starter\obj\Release\Calculator.Calc.resources
+C:\Work\c#_WinForms\Prim_k_lec\Calculator\Calculator_starter\obj\Release\Calculator.csproj.GenerateResource.Cache
+C:\Users\lev.chesnokov\Downloads\Calculator_starter_2\Calculator_starter\bin\Release\Calculator.exe
+C:\Users\lev.chesnokov\Downloads\Calculator_starter_2\Calculator_starter\obj\Release\Calculator.csproj.AssemblyReference.cache
+C:\Users\lev.chesnokov\Downloads\Calculator_starter_2\Calculator_starter\obj\Release\Calculator.Calc.resources
+C:\Users\lev.chesnokov\Downloads\Calculator_starter_2\Calculator_starter\obj\Release\Calculator.csproj.GenerateResource.cache
+C:\Users\lev.chesnokov\Downloads\Calculator_starter_2\Calculator_starter\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\lev.chesnokov\Downloads\Calculator_starter_2\Calculator_starter\obj\Release\Calculator.exe
